@@ -207,3 +207,17 @@ When generating new notebooks, the model is able to produce notebooks with a sim
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+## References
+
+- [SentencePiece](https://github.com/google/sentencepiece)
+- [PyTorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+- [numpy](https://numpy.org/)
+- [nbformat](https://github.com/jupyter/nbformat)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
