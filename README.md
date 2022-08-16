@@ -143,9 +143,9 @@ def generate(model, start_token, end_token, max_length):
 ```
 
 
-```python
 # Generated Notebook
 
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
